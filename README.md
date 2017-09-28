@@ -1,4 +1,7 @@
 # Blogger
+
+A simple blog site created using semantic ui.
+
 Requirements to run blogger:-
 1.MongoDb should have been setted up already.
 2.Node must be preinstalled.
